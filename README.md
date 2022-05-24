@@ -15,7 +15,8 @@ Graph auto-encoder is considered a framework for unsupervised learning on graph-
   volume={},
   number={},
   pages={1-1},
-  doi={10.1109/TKDE.2021.3138788}}
+  doi={10.1109/TKDE.2021.3138788}
+ }
  ```
 
 ## Requirements
